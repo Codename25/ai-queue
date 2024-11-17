@@ -1,0 +1,5 @@
+server:
+  port: 8085
+
+ai:
+  endpoint: http://vistagerapp:5000/ai/get_insane_image_1337
